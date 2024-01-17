@@ -46,13 +46,14 @@ body   * {
 
 #container {
   /* caixa para facilitar a visualização durante a construção do site
+DevLinks
   width: 360px;
   border: 1px solid red;
 /*
   margin-top: 56px;
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: auto;
+  margin-bottom: aut0;
   */
   width: 100%;
   max-width: 588px;
